@@ -1,4 +1,4 @@
-#!/Users/sambrindle/Documents/codeFellows/401-python/labs/drf-api-permissions-postgres/.venv/bin/python
+#!/Users/sambrindle/Documents/codeFellows/401-python/labs/drf-api-permissions-postgres/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
